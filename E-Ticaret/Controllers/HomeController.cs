@@ -77,6 +77,7 @@ namespace E_Ticaret.Controllers
         {
             return View();
         }
+        //deneme yorum satırı
         public ActionResult Tac()
         {
             return View();
